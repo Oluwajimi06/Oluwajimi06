@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Obadimeji Oluwajimi
-- 👀 I’m a 19 year-old Web developer
+- 👀 I’m a Web developer
 - 👀 I’m currently into Frontend Development, with the use of HTML, CSS,Bootsrap and javascript
 - 🌱 I’m currently learning python Programming
 - 💞️ I’m looking to collaborate on any project.
