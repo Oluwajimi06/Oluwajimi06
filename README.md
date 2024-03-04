@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obadimeji Oluwajimi
 - 👀 I’m a Web developer
-- 👀 I’m currently into Frontend Development, with the use of HTML, CSS,Bootsrap and javascript,python,django
+- 👀 I’m currently into Web development, with the use of HTML, CSS,Bootsrap and javascript,python,django
 - 🌱 I’m currently learning python Programming
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ... Visit my Portfolio
